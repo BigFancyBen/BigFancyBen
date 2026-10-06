@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <th align="left"><h3><a href="https://benadams.dev/river">Middle Fork Rafting Simulator</a></h3>Multiplayer whitewater in Godot. Proceduraly generated river. Every seed is different so as they say </ br>"No man ever steps in the same river twice..."</th>
+    <th align="left"><h3><a href="https://benadams.dev/river">Middle Fork Rafting Simulator</a></h3>Multiplayer whitewater in Godot. Proceduraly generated river, every seed is a different river."</th>
   </tr>
   <tr>
     <td><a href="https://benadams.dev/river"><img src="assets/mfrs-loop.webp" alt="Six otters paddling a raft through white water between two boulders" width="100%"></a></td>
